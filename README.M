@@ -1,0 +1,1 @@
+This folder contains an isertion sort funtion that returns the number in an array from the smallets to the largest in ascending order.
